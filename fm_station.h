@@ -1,6 +1,6 @@
 #define fm_num  7
 #include <avr/pgmspace.h>
-prog_char string_0[] PROGMEM = "Inter FM   :76.1MHz";   // "String 0" etc are strings to store - change to suit.
+prog_char string_0[] PROGMEM = "Inter FM   :76.1MHz"; 
 prog_char string_1[] PROGMEM = "Houso Univ.:77.1MHz";
 prog_char string_2[] PROGMEM = "G-WIND     :77.6MHz";
 prog_char string_3[] PROGMEM = "Tokyo FM   :80.0MHz";
