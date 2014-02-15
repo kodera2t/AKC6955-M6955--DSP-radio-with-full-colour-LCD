@@ -2,7 +2,7 @@
  * DSP Radio control program on Arduino IDE with 1.8inch SPI LCD
  *
  *  Created on: Jan. 27 , 2014
- *      Author: kodera2t
+ *      Author: kodera2tもへある
  */
 
 #include "fm_station.h"
